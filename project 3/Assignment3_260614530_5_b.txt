@@ -1,0 +1,11 @@
+Naive Bayes Classifier:
+smoothing=1e-4
+
+Decision Tree Classifier:
+Criterion=Gini
+Splitter=Random
+Max_depth=21
+Min_sample_leaf=4
+
+Linear SVM:
+C=100

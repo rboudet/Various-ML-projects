@@ -1,0 +1,11 @@
+Naive Bayes Classifier:
+alpha=0.06
+
+Decision Tree Classifier:
+Criterion=Gini
+Splitter=Random
+Max_depth=16
+Min_sample_leaf=2
+
+Linear SVM:
+C=0.01
